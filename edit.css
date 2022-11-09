@@ -1,7 +1,6 @@
 /* background color*/
 
 body{
-	background-image: photo/wood.jpg;
 	font-family: 'open sasns', sans-serif;
 	margin: 0;
 }
@@ -18,19 +17,26 @@ html {
 }
 
 .main-heading{
-	  color: #aeaeae;
+	  color:#9fc5e8;
 	  font-size: 70px;
 }
 
 
+
+
 .section-all{
 	display: flex;
-	margin: 50px auto;
-	width: 450px;
+	margin: 250px;
+	margin-top:10px;
+	margin-bottom: 30px;
+	width: 930px;
+	border: 4px solid;
+	border-color:#095778 ;
+
 }
 
 .images{
-	width: 200px;
+	width: 800px;
 }
 
 .div1{
@@ -38,29 +44,31 @@ html {
 }
 
 .main-name{ 
-	color:#aeaeae ;
+	padding-left:3px;
+	color:#b6d7a8 ;
 	font-size: 30 px;
 }
 
 .ul-ilist{
-	padding-left: 10px;
+	padding-left: 15px;
+	color:#b6d7a8 ;
 }
 
 .li-list{
 	margin-bottom: 10px;
 }
 .anker{
-	color:#aeaeae ;
+	color:#b6d7a8 ;
 	font-size: 20 px;
 }
 
 .footer1{
-      background-color:#444444;
+      background-color:#2d70b7;
       padding: 1px;
       text-align: center;
 }
 
 .created-by{
-		color:#aeaeae ;
+		color:#ffcd37 ;
 	font-size: 20 px;
 }
